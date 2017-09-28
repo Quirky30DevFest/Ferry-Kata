@@ -5,7 +5,7 @@
 <li>write test using <a href="https://webapplog.com/tdd/">Mocha</a></li>
 <li>Always write the code test first, this will help you understand whats needs to be done and get you in the habit of doing TDD</li>
 <li>You need Mocha installed: install it global use, sudo npm install -g mocha</li>
-<li font-family:"italic">Run NPM Install</li>
+<li>Run NPM Install</li>
 <h1>Ferry Kata</h1>
 
 <h2> Instructions</h2>
@@ -20,7 +20,7 @@ This country's government would like to control the number of cars and people th
 
 To help them they need you to:
 
-* Create a Car class: each car instance has a color and keeps track of the number of passengers in the car.
+* Create a Car <a href="https://www.sitepoint.com/understanding-module-exports-exports-node-js/">class</a>: each car instance has a color and keeps track of the number of passengers in the car.
 
 * Create a Ferry class: the constructor should specify the number of cars allowed on the ferry and also how many people are allowed on the ferry. 
 
